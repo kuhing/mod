@@ -30,7 +30,7 @@ sleep 1
 echo -e ""
 wget -q -O m-bot "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/m-bot.sh"
 sleep 1
-echo -e "${GB}[ INFO ]${NC} ${YB}Minum Kopi + Rokok Dulu Brooooo${NC}"
+echo -e "${GB}[ INFO ]${NC} ${YB}Minum Kopi + Rokok Dulu Brooooo....${NC}"
 sleep 1
 wget -q -O m-ip "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/m-ip.sh"
 echo -e ""
