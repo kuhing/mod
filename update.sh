@@ -44,70 +44,88 @@ wget -q -O menu-uuid "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu
 echo -e "${GB}[ INFO ]${NC} ${YB}Heheeeeeeee.....${NC}"
 wget -q -O menu-vmess "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-vmess.sh"
 sleep 1
+echo ""
 wget -q -O menu-vless "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-vless.sh"
 sleep 1
+echo ""
 wget -q -O menu-ssws "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-ssws.sh"
 sleep 1
+echo ""
 wget -q -O running "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/running.sh"
 sleep 1
+echo ""
 wget -q -O clearcache "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/clearcache.sh"
-sleep 1
+
 wget -q -O menu-trgo "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-trgo.sh"
 sleep 1
+echo ""
 wget -q -O menu-trojan "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-trojan.sh"
-sleep 1
+
 wget -q -O menu-ssh "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-ssh.sh"
 sleep 1
+echo ""
 wget -q -O menu-set "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-set.sh"
-sleep 1
+ 
 wget -q -O menu-domain "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-domain.sh"
 sleep 1
+echo ""
 wget -q -O add-host "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/ssh/add-host.sh"
-sleep 1
+
 wget -q -O port-change "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/port/port-change.sh"
 sleep 1
+echo ""
 wget -q -O port-ovpn "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/port/port-ovpn.sh"
-sleep 1
+
 wget -q -O certv2ray "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/xray/certv2ray.sh"
 sleep 1
+echo ""
 wget -q -O menu-webmin "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-webmin.sh"
-sleep 1
+
 wget -q -O speedtest "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/ssh/speedtest_cli.py"
 sleep 1
 wget -q -O about "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/about.sh"
 sleep 1
+echo ""
 wget -q -O auto-reboot "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/auto-reboot.sh"
-sleep 1
+
 wget -q -O restart "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/restart.sh"
 sleep 1
+echo ""
 wget -q -O bw "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/bw.sh"
-sleep 1
+
 wget -q -O port-ssl "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/port/port-ssl.sh"
 sleep 1
+echo ""
 wget -q -O xp "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/ssh/xp.sh"
-sleep 1
+
 wget -q -O status "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/status.sh"
 sleep 1
+echo ""
 wget -q -O menu-bckp "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/menu/menu-bckp.sh"
-sleep 1
+
 wget -q -O backup "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/backup/backup.sh"
 sleep 1
+echo ""
 wget -q -O restore "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/backup/restore.sh"
-sleep 1
+
 wget -q -O jam "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/jam.sh"
 sleep 1
+echo ""
 wget -q -O addtrgo "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/xray/addtrgo.sh"
-sleep 1
+
 wget -q -O trialtrojango "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/xray/trialtrojango.sh"
 sleep 1
+echo ""
 wget -q -O deltrgo "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/xray/deltrgo.sh"
-sleep 1
+
 wget -q -O renewtrgo "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/xray/renewtrgo.sh"
 sleep 1
+echo ""
 wget -q -O cektrgo "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/xray/cektrgo.sh"
-sleep 1
+
 wget -q -O user-lock "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/ssh/user-lock.sh"
 sleep 1
+echo ""
 wget -q -O user-unlock "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/ssh/user-unlock.sh"
 sleep 1
 
@@ -151,6 +169,9 @@ chmod +x renewtrgo
 chmod +x cektrgo
 chmod +x user-lock
 chmod +x user-unlock
+sleep 1
+echo ""
+clear
 echo -e "${GB}[ INFO ]${NC} ${YB}Downloading File Menu Successfully${NC}"
 sleep 5
 cd
